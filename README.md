@@ -1,3 +1,3 @@
 # hello-world
-feiwunfasd
-data
+Hi this is Min's first github file
+
